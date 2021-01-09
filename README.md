@@ -1,6 +1,6 @@
 # Kanana Android 
 
-Signal is a messaging app for simple private communication with friends.
+Kanana is a messaging app for simple private communication with friends build on Signal.
 
 Signal uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
 
@@ -11,7 +11,7 @@ Currently available on the Play store.
 ## Contributing Bug reports
 We use GitHub for bug tracking. Please search the existing issues for your bug and create a new one if the issue is not yet tracked!
 
-https://github.com/signalapp/Signal-Android/issues
+https://github.com/signalapp/Kanana-Android/issues
 
 ## Joining the Beta
 Want to live life on the bleeding edge and help out with testing?

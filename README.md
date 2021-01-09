@@ -1,4 +1,4 @@
-# Signal Android 
+# Kanana Android 
 
 Signal is a messaging app for simple private communication with friends.
 
@@ -22,25 +22,25 @@ https://play.google.com/apps/testing/org.thoughtcrime.securesms
 If you're interested in a life of peace and tranquility, stick with the standard releases.
 
 ## Contributing Translations
-Interested in helping to translate Signal? Contribute here:
+Interested in helping to translate Kanana? Contribute here:
 
-https://www.transifex.com/projects/p/signal-android/
+https://www.transifex.com/projects/p/kanana-android/
 
 ## Contributing Code
 
-If you're new to the Signal codebase, we recommend going through our issues and picking out a simple bug to fix (check the "easy" label in our issues) in order to get yourself familiar. Also please have a look at the [CONTRIBUTING.md](https://github.com/signalapp/Signal-Android/blob/master/CONTRIBUTING.md), that might answer some of your questions.
+If you're new to the Kanana codebase, we recommend going through our issues and picking out a simple bug to fix (check the "easy" label in our issues) in order to get yourself familiar. Also please have a look at the [CONTRIBUTING.md](https://github.com/signalapp/Signal-Android/blob/master/CONTRIBUTING.md), that might answer some of your questions.
 
-For larger changes and feature ideas, we ask that you propose it on the [unofficial Community Forum](https://community.signalusers.org) for a high-level discussion with the wider community before implementation.
+For larger changes and feature ideas, we ask that you propose it on the [unofficial Community Forum](https://community.kananausers.org) for a high-level discussion with the wider community before implementation.
 
 ## Contributing Ideas
-Have something you want to say about Open Whisper Systems projects or want to be part of the conversation? Get involved in the [community forum](https://community.signalusers.org).
+Have something you want to say about Open Whisper Systems projects or want to be part of the conversation? Get involved in the [community forum](https://community.kananausers.org).
 
 Help
 ====
 ## Support
 For troubleshooting and questions, please visit our support center!
 
-https://support.signal.org/
+https://support.kanana.org/
 
 ## Documentation
 Looking for documentation? Check out the wiki!
